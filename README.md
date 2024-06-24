@@ -36,6 +36,76 @@ Answer the following questions based on your understanding of the installation a
 
 10. Using Source Control:
     - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
+1.
+a)	Installation of VS Code on Windows 11:
+b)	Setting up Visual Studio involves a few steps. Here's a concise step-by-step guide:
+c)	Download Visual Studio:
+d)	Visit the Visual Studio website and click on "Download Visual Studio."
+e)	Follow the on-screen instructions to download the installer.
+f)	. Run the Installer:
+g)	Run the downloaded installer.
+h)	Choose the "Visual Studio" workload during installation, which includes the necessary components for general development.
+i)	. Select Workloads and Components:
+j)	In the Visual Studio Installer, select the workloads and components you need based on your development requirements. Common workloads include ".NET Desktop Development" or "Web Development."
+k)	Modify Installation (Optional):
+l)	If needed, you can customize the installation by clicking on the "Individual components" tab in the installer and selecting or deselecting specific components.
+m)	Install:
+n)	Click the "Install" button to start the installation process.
+o)	This may take some time, as it involves downloading and installing the selected components.
+p)	Launch Visual Studio:
+q)	Once the installation is complete, launch Visual Studio.
+r)	Sign in with your Microsoft account or create one if prompted.
+s)	Choose Development Environment:
+t)	On the welcome screen, select your development environment. For example, you can choose "Development Settings" based on your preferred coding style.
+u)	Start Coding:
+v)	You're now ready to start coding! Create a new project or open an existing one to begin your development work
+2. First-time Setup:
+a)	Select a color theme
+b)	Configure file auto-save
+c)	Install relevant language extensions
+d)	Adjust editor settings like font size and line numbers
+3. User Interface Overview:
+a.	Activity Bar: Left-most panel for switching between views
+b.	Side Bar: Contains file explorer, search, source control, etc.
+c.	Editor Group: Main coding area
+d.	Status Bar: Bottom information panel showing language, line/column, etc.
+
+4. Command Palette:
+- Access: Press Ctrl+Shift+P 
+- Use for: Changing settings, running tasks, accessing Git commands, etc.
+
+5. Extensions in VS Code:
+- Role: Enhance functionality and language support
+- Find/Install: Use Extensions view in Side Bar
+- Manage: Enable/disable/uninstall from Extensions view
+- Examples: Prettier, ESLint, Live Server
+
+6. Integrated Terminal:
+- Open: View > Terminal or Ctrl+`
+- Advantages: Convenient access, multiple instances, splits
+
+7. File and Folder Management:
+- Create: Right-click in File Explorer or use New File/Folder icons
+- Open: File > Open Folder or drag folder into VS Code
+- Navigate: Use File Explorer in Side Bar or Quick Open (Ctrl+P)
+
+8. Settings and Preferences:
+- Access: File > Preferences > Settings 
+- Change theme: Search "Color Theme" in settings
+- Adjust font size: Search "Font Size" in settings
+- Modify keybindings: File > Preferences > Keyboard Shortcuts
+
+9. Debugging in VS Code:
+- Set breakpoints by clicking left of line numbers
+- Configure launch.json for your project
+- Start debugging with F5 or Run > Start Debugging
+- Features: Step through code, watch variables, view call stack
+
+10. Using Source Control:
+- Initialize repo: View > SCM, then "Initialize Repository"
+- Stage changes: Click "+" next to modified files
+- Commit: Enter message and click checkmark
+- Push: Click "..." in Source Control view, select "Push"
 
  Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
